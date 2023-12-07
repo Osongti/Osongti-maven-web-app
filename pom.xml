@@ -81,7 +81,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>AIT-SNAPSHOT </name>
+	      <name>AIT-SNAPSHOT</name>
 	      <url>http://52.90.52.59:8081/repository/Snapshot-Nguti-Credit-Union-App/</url>
 	    </snapshotRepository>
 	    
