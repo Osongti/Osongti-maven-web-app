@@ -76,13 +76,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>AIT-RELEASE</name>
-	      <url>http://54.166.144.160:8081/repository/Release-Nguti-Credit-Union-app/</url>
+	      <url>http://54.152.105.42:8081/repository/Release-Nguti-Credit-Union-app/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>AIT-SNAPSHOT</name>
-	      <url>http://54.166.144.160:8081/repository/Snapshot-Nguti-Credit-Union-app/</url>
+	      <url>http://54.152.105.42:8081/repository/Snapshot-Nguti-Credit-Union-app/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
